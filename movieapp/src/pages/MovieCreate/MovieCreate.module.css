@@ -1,0 +1,9 @@
+.custom-form{
+    width: 1005;
+}
+
+@media (max-width: 668px) {
+    .custom-form{
+        width: 100%;
+    }
+}

@@ -1,0 +1,17 @@
+.active:focus{
+    color: rgb(240, 240, 20) !important;
+    border-bottom: 1px solid brown;
+}
+.icon:focus{
+    color: rgb(240, 240, 20) !important;
+}
+@media (max-width: 991px) {
+  .badge{
+    top: 0 !important;
+    left: 70px !important;
+  } 
+  .icon{
+    margin-left: 0 !important;
+    margin-top: 6px !important;
+  }
+}

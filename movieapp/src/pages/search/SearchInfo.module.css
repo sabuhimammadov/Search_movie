@@ -1,0 +1,28 @@
+.search-info {
+    position: relative;
+}
+
+.search-input {
+    width: 327px;
+    height: 42px;
+    border-radius: 16px;
+    background: #3A3F47;
+    color: #FFF;
+    padding-left: 24px;
+    border: none;
+}
+
+.title {
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.search-icon{
+position: absolute;
+right: 13px;
+top: 13px;
+background: transparent;
+border: none;
+}
